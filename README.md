@@ -1,6 +1,6 @@
 # Dravidian-Offensive-Language-Identification
 
-This repository contains the code and resources to reproduce the work of Team indicnlp@kgp's submission to the shared task ```Offensive Language Identification in Dravidian Languages``` at Dravidian Language Technolofy Workshop at EACL 2021
+This repository contains the code and resources to reproduce the work of Team indicnlp@kgp's submission to the shared task ```Offensive Language Identification in Dravidian Languages``` at Dravidian Language Technology Workshop at EACL 2021
 
 ## Tokenizers and Language Models
 
@@ -22,7 +22,7 @@ Apart from the dataset supplied by the organizers of the shared task, we also us
 
 The Transformer Architecture used by us is shown in the figure. We used the pre-trained models realeased by [HuggingFace](https://huggingface.co/transformers/pretrained_models.html).
 
-![Transformer Architecture](http://url/to/img.png)
+![Transformer Architecture](https://github.com/kushal2000/Dravidian-Offensive-Language-Identification/blob/master/Transformer_Architecture.jpg)
 
 ## Results
 
